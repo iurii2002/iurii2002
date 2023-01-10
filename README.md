@@ -8,23 +8,18 @@
 <h3>Things I code with</h3>
 <p>
   <img alt="Solidity" src="https://img.shields.io/badge/Solidity-0.6%2B-green" /> 
-  <img alt="OpenZepplin" src="" />
-  <img alt="Chainlink" src="" />
-  <img alt="" src="" />
-  <img alt="" src="" />
-  <img alt="" src="" />
-  <img alt="" src="" />
+  <img alt="OpenZeppelin" src="https://img.shields.io/badge/OpenZeppelin-3%2B-blue" />
+  <img alt="Chainlink" src="https://img.shields.io/badge/Chainlink-v1--v2-blue" />
+  <img alt="Brownie" src="https://img.shields.io/badge/Brownie-1.19-blue" />
+  <img alt="Apeworx" src="https://img.shields.io/badge/Apeworx-0.5-blue" />
 </p>
 
 <p>
   
   <img alt="Python" src="https://img.shields.io/badge/Python-3.7%2B-green" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-10.0-yellowgreen" />
-  
-  
-
- 
+  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-3.7%2B-blue" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4.0%2B-blue" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-10.0%2B-blue" />
 </p>
 
 ### 
