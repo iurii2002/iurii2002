@@ -23,9 +23,9 @@
 
 <p>  
   <img alt="Linux" src="https://img.shields.io/badge/Linux-18%2B-green" />
-  <img alt="Cloud Services" src="https://img.shields.io/badge/Cloud%20services----blue" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker----blue" />
-  <img alt="Bash" src="https://img.shields.io/badge/Bash----blue" />  
+  <img alt="Cloud Services" src="https://img.shields.io/badge/Cloud%20services-Hetzner-blue" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-19+-blue" />
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-4+-blue" />  
 </p>
 
 ### 
